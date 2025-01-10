@@ -1,0 +1,42 @@
+Jan 9: Meeting with Reza Malek-Madani and Nick Moore to discuss PWE
+project for Navy.
+
+Questions for Reza:
+  1. What are the goals for the project?
+      - A PDE model with a solver for PWEs? This is the one Reza is
+        interested in. Also in multiscale/multiphysics type problems
+      - AI/ML tools
+  2. What would technology transfer look like?
+      - Not needed for Reza's program. His program is about fundamental
+        research. Deliverables is talks and peer-reviewed papers.
+  3. Term of the project? 3 years?
+      - 3 years is correct
+  4. Do we need a F2F meeting in the next few weeks/months?
+  5. What are our next steps for a submission?
+      - Write a white paper. Include a budget. White paper by the end of
+        February. Feedback at end of March. Proposal in April. Start in
+        September.
+      - At most 2 page white paper, budget, and short CV. Pay lipservice
+        to the application. Underwater communication is the big one.
+        All we need to do is reference it.
+      - Needs to be clear very early in the white paper what the
+        application is.
+      - Choose the smallest non-trivial problem to work on.
+
+How laser beams interact with a turbulent environment using techniques
+from Mathematicians instead of Engineers.
+
+One person working on the project is working at NRL at a large laser
+lab. (Avramov)
+
+Would like to see connections between PWE and non-linear Schrodinger
+
+Look for author with last name Judd that is in the Avramov papers (these
+are all in the google drive). He is the right person
+
+If we do ML/AI, then it needs to be connected back to the physics, PDE,
+but shouldn't just be a data-type research.
+
+Need to dig much deeper into literature to look at Schrodinger equation.
+
+Can request funds if we could benefit from it.
